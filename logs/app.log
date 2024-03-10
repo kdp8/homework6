@@ -42,3 +42,31 @@
 2024-03-10 18:55:31,870 - root - INFO - DivideCommand executed successfully.
 2024-03-10 18:55:35,184 - root - INFO - ExitCommand executed successfully.
 2024-03-10 18:55:35,184 - root - INFO - Application shutdown.
+2024-03-10 18:57:43,269 - root - INFO - Logging configured.
+2024-03-10 18:57:43,270 - root - INFO - Environment variables loaded.
+2024-03-10 18:57:43,270 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-10 18:57:43,271 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-10 18:57:43,271 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-10 18:57:43,271 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-10 18:57:43,271 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-10 18:57:43,272 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-10 18:57:43,272 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-10 18:57:43,272 - root - INFO - ExitCommand executed successfully.
+2024-03-10 18:57:43,272 - root - INFO - Application shutdown.
+2024-03-10 18:57:43,278 - root - INFO - Logging configured.
+2024-03-10 18:57:43,279 - root - INFO - Environment variables loaded.
+2024-03-10 18:57:43,279 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-10 18:57:43,280 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-10 18:57:43,280 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-10 18:57:43,280 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-03-10 18:57:43,281 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-10 18:57:43,281 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-10 18:57:43,281 - root - INFO - Application started. Type 'exit' to exit.
+2024-03-10 18:57:43,281 - root - INFO - ExitCommand executed successfully.
+2024-03-10 18:57:43,281 - root - INFO - Application shutdown.
+2024-03-10 18:57:43,302 - root - INFO - GreetCommand executed successfully.
+2024-03-10 18:57:43,318 - root - INFO - AddCommand executed successfully.
+2024-03-10 18:57:43,326 - root - INFO - SubtractCommand executed successfully.
+2024-03-10 18:57:43,335 - root - INFO - MultiplyCommand executed successfully.
+2024-03-10 18:57:43,342 - root - INFO - DivideCommand executed successfully.
+2024-03-10 18:57:43,350 - root - INFO - ExitCommand executed successfully.
